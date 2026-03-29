@@ -1,3 +1,3 @@
 ## DFT_Internship
-# Centre for Integrated chip and System
+# Centre for Integrated Chip and System
 # KLE Technological University Hubli 
